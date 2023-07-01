@@ -1,1 +1,2 @@
 Line-1: India is my country
+Line-2: Karnataka is my state
